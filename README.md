@@ -19,14 +19,14 @@
 ```javascript
 
 const indian = {
-  name: "Abhishek Pandey",
-  alias: "Prashant | abhiesa",
+  name: "abhishek pandey",
+  alias: "prashant | abhiesa",
   website: "http://abhiesa.com",
   keyword: "abhiesa"
   experience: "14 Years",
-  current-employer: "Optum (OGA), United Health Group",
+  current-employer: "optum (oga), united health group",
   currrent-role: "solution architect",
-  past-notable-employers: ["IBM", "Deloitte", "HCL", "Tolexo", "Times of India"],
+  past-notable-employers: ["ibm", "deloitte", "hcl", "tolexo", "times of india"],
   education: [
     {
       course: "masters of computer appication",
@@ -39,31 +39,30 @@ const indian = {
       collage: "birla institute of technology"
     }
   ],
-  joined-github: "October 30, 2010",
+  joined-github: "october 30, 2010",
   skills: ["development", "designing", "architecture", "consulting", "modernization"],
-  enthusiast: ["fusion applications", "semantic web", "polyglot persistence", "reactive"],
+  enthusiast: ["fusion applications", "semantic web", "polyglot persistence", "reactiveness"],
   performed: ["lead", "architecture", "manage", "requirement gathering", "analysis",
     "solution design", "testing", "development", "quality assurance", "vendor management"
   ],
-  model: ["SDLC", "RUP", "Agile", "Scrum in T&M", "Fixed Cost", "product"],
-  quality: ["Self-Motivated", "Passion towards business", "Relationship",
-    "Collaborative"
+  model: ["sdlc", "rup", "agile", "scrum in t&m", "fixed cost", "product"],
+  qualities: ["self-motivated", "passion towards business", "relationship",
+    "collaborative"
   ],
-  languages: ["Java", "ECMAScript", "Kotlin", "GoLang", "Typescript", "Python"],
+  languages: ["java", "ecmascript", "kotlin", "golang", "typescript", "nodejs"],
   rdbms: ["mysql", "postgres", "oracle", "db2", "ms-sql server"],
   cloud: ["docker", "openshift", "kubernates", "aws", "azure", "gcp"],
   architecture: ["microservices", "event-driven"],
   mentors: ["@arungupta", "@starbuxman", "@paul_irish", "@SZQuadri"],
   certified: ["java", "soa", "db2", "azure"],
-  before-y2k: {
+  before-2k: {
     year: 1996,
-    first-computer: "Intel machine with no hard-drive but with 5.25-inch floppy drive",
-    first-os: "MS-DOS 3.x",
+    first-computer: "intel machine with no hard-drive but with 5.25-inch floppy drive",
+    first-os: "ms-dos 3.x",
     programs: ["wordstar", "123", "dbase", "lotus 123", "pagemaker", "coral", "foxpro"],
-    first-challange: "Y2K",
+    first-challange: "y2k",
     early-hacks: ["scandisk", "defrag", "format", "blow warm air", "switch-off switch-on"]
   }
-  
 }
 
 ```
