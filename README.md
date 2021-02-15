@@ -29,12 +29,12 @@ const indian = {
   pastNotableEmployers: ["ibm", "deloitte", "hcl", "tolexo", "times of india"],
   education: [
     {
-      course: "masters of computer appication",
+      course: "masters of computer applications",
       finishingYear: 2007,
       collage: "vellore institute of technology"
     },
     {
-      course: "bachelor of computer appication",
+      course: "bachelor of computer applications",
       finishingYear: 2004,
       collage: "birla institute of technology"
     }
