@@ -22,7 +22,7 @@ const indian = {
   name: "abhishek pandey",
   alias: "prashant | abhiesa",
   website: "http://abhiesa.com",
-  keyword: "abhiesa"
+  keyword: "abhiesa",
   experience: "14 Years",
   current-employer: "optum (oga), united health group",
   currrent-role: "solution architect",
@@ -46,9 +46,7 @@ const indian = {
     "solution design", "testing", "development", "quality assurance", "vendor management"
   ],
   model: ["sdlc", "rup", "agile", "scrum in t&m", "fixed cost", "product"],
-  qualities: ["self-motivated", "passion towards business", "relationship",
-    "collaborative"
-  ],
+  qualities: ["self-motivated", "passion towards business", "relationship", "collaborative"],
   languages: ["java", "ecmascript", "kotlin", "golang", "typescript", "nodejs"],
   rdbms: ["mysql", "postgres", "oracle", "db2", "ms-sql server"],
   cloud: ["docker", "openshift", "kubernates", "aws", "azure", "gcp"],
