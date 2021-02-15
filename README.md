@@ -24,7 +24,28 @@ const indian = {
   website: "http://abhiesa.com",
   keyword: "abhiesa"
   experience: "14 Years",
+  currently-working: "Optum (OGA), United Health Group",
+  currrent-role: "solution architect",
+  past-notable-companies: ["IBM", "Deloitte", "HCL", "Tolexo", "Times of India"],
+  education: [
+    {
+      course: "masters of computer appication",
+      finishing-year: 2007,
+      collage: "vellore institute of technology"
+    },
+    {
+      course: "bachelor of computer appication",
+      finishing-year: 2004,
+      collage: "birla institute of technology"
+    }
+  ],
   joined-github: "October 30, 2010",
+  ealry-exposure: {
+    first-computer: "Intel machine with no hard-drive but with 5.25-inch floppy drive",
+    year: 1996,
+    first-os: "MS-DOS 3.x",
+    programs: ["wordstar", "123", "dbase", "lotus 123", "pagemaker", "coral", "foxpro"]
+  }
   skills: ["development", "designing", "architecture", "consulting", "modernization"],
   enthusiast: ["fusion applications", "semantic web", "polyglot persistence", "reactive"],
   performed: ["lead", "architecture", "manage", "requirement gathering", "analysis",
@@ -39,6 +60,8 @@ const indian = {
   cloud: ["docker", "openshift", "kubernates", "aws", "azure", "gcp"],
   architecture: ["microservices", "event-driven"],
   mentors: ["@arungupta", "@starbuxman", "@paul_irish", "@SZQuadri"],
+  certified: ["java", "soa", "db2", "azure"],
+  
 }
 
 ```
@@ -52,7 +75,7 @@ const indian = {
   <li>🌱 Learning: <b>Enterprise Integration Pattern</b></li>
   <li>👯 Looking to collaborate on: <b>Cloud Native Pattern</b></li>
   <li>🤔 Looking for help with: <b>Learning Angular/React</b></li>
-  <li>💬 Ask Me About: <b>Microservices, Business to Technology Transformation</b></li>
+  <li>💬 Ask Me About: <b>Microservices, Spring Boot</b></li>
   <li>⚡ Fun fact: <b>I was an actor, done television, drama, stage and films, before coming to IT</b></li>
 <ul>
 
