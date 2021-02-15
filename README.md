@@ -51,8 +51,6 @@ const indian = {
   <li>👯 Looking to collaborate on: <b>Cloud Native Pattern</b></li>
   <li>🤔 Looking for help with: <b>Learning Angular/React</b></li>
   <li>💬 Ask Me About: <b>Microservices, Business to Technology Transformation</b></li>
-  <li>📫 How to reach me: <b>Check banner on left or links on top</b></li>
-  <li>😄 Pronouns: <b>"he" | "him" | "his"</b></li>
   <li>⚡ Fun fact: <b>I was an actor, done television, drama, stage and films</b></li>
 <ul>
 
