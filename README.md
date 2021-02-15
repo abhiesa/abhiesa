@@ -22,9 +22,9 @@ const indian = {
   alias: "Prashant | abhiesa",
   website: "http://abhiesa.com",
   aboutMe: "https://about.me/abhiesa",
-  googleMe: "abhiesa"
-  pronouns: "he" | "him" | "his",
+  keyword: "abhiesa"
   experience: "14 Years",
+  joinedGithub: "October 30, 2010",
   skills: ["development", "designing", "architecture", "consulting", "modernization"],
   enthusiast: ["fusion applications", "semantic web", "polyglot persistence", "reactive"],
   performed: ["lead", "architecture", "manage", "requirement gathering", "analysis",
@@ -36,24 +36,24 @@ const indian = {
   ],
   languages: ["Java", "ECMAScript", "Kotlin", "GoLang", "Typescript", "Python"],
   rdbms: ["mysql", "postgres", "oracle", "db2", "ms-sql server"],
-  cloud: ["docker", "openshift", "kubernates", "aws", "azure", "gcp"]
-
-  
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  cloud: ["docker", "openshift", "kubernates", "aws", "azure", "gcp"],
+  architecture: ["microservices", "event-driven"],
   mentors: ["@arungupta", "@starbuxman", "@paul_irish", "@SZQuadri"],
-  
 }
 
 ```
 
 <img align ="right" width="50%" src="https://github.com/abhiesa/abhiesa/raw/main/banner.png" alt="banner">
-<h4> Currently Spending Time On: </h4>
+<h4> Currently: </h4>
 <ul>
-  <li>Game: <b>Assassin Creed: Valhalla</b></li>
-  <li>Book: <b>Upanishad</b></li>
-  <li>Song: <b>Counting Crows - Big Yellow Taxi</b></li>
-  <li>Netflix: <b>WnadaVision</b></li>
-  <li>Amazon Prime: <b>American Gods</b></li>
+  <li>🔭 Working on: <b>Spark (Distributed Map-Reduce)</b></li>
+  <li>🌱 Learning: <b>Enterprise Integration Pattern</b></li>
+  <li>👯 Looking to collaborate on: <b>Cloud Native Pattern</b></li>
+  <li>🤔 Looking for help with: <b>Learning Angular/React</b></li>
+  <li>💬 Ask Me About: <b>Microservices, Business to Technology Transformation</b></li>
+  <li>📫 How to reach me: <b>Check banner on left or links on top</b></li>
+  <li>😄 Pronouns: <b>"he" | "him" | "his"</b></li>
+  <li>⚡ Fun fact: <b>I was an actor, done television, drama, stage and films</b></li>
 <ul>
 
 
@@ -63,14 +63,4 @@ const indian = {
 <a href="https://about.me/abhiesa"><img src="https://raw.githubusercontent.com/abhiesa/abhiesa/main/svg/about-dot-me.svg" height="30"></a>&nbsp;&nbsp;
 <a href="https://abhiesa.wordpress.com/"><img src="https://raw.githubusercontent.com/abhiesa/abhiesa/main/svg/wordpress.svg" height="30"></a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/channel/UCaiYI9RAcZ9-2owp4ugS0JQ"><img src="https://raw.githubusercontent.com/abhiesa/abhiesa/main/svg/youtube.svg" height="30"></a>
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
