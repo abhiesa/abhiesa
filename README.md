@@ -24,9 +24,9 @@ const indian = {
   website: "http://abhiesa.com",
   keyword: "abhiesa"
   experience: "14 Years",
-  currently-working: "Optum (OGA), United Health Group",
+  current-employer: "Optum (OGA), United Health Group",
   currrent-role: "solution architect",
-  past-notable-companies: ["IBM", "Deloitte", "HCL", "Tolexo", "Times of India"],
+  past-notable-employers: ["IBM", "Deloitte", "HCL", "Tolexo", "Times of India"],
   education: [
     {
       course: "masters of computer appication",
