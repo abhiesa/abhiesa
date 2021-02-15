@@ -43,8 +43,7 @@ const indian = {
   skills: ["development", "designing", "architecture", "consulting", "modernization"],
   enthusiast: ["fusion applications", "semantic web", "polyglot persistence", "reactiveness"],
   performed: ["lead", "architecture", "manage", "requirement gathering", "analysis",
-    "solution design", "testing", "development", "quality assurance", "vendor management"
-  ],
+    "solution design", "testing", "development", "quality assurance", "vendor management"],
   model: ["sdlc", "rup", "agile", "scrum in t&m", "fixed cost", "product"],
   qualities: ["self-motivated", "passion towards business", "relationship", "collaborative"],
   languages: ["java", "ecmascript", "kotlin", "golang", "typescript", "nodejs"],
