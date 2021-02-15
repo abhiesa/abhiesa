@@ -7,6 +7,7 @@
   <a href="https://twitter.com/abhiesa"><img src="https://raw.githubusercontent.com/abhiesa/abhiesa/main/svg/twitter.svg" height="30"></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/abhiesa/"><img src="https://raw.githubusercontent.com/abhiesa/abhiesa/main/svg/instagram.svg" height="30"></a>&nbsp;&nbsp;
   <a href="https://en.gravatar.com/abhiesa"><img src="https://raw.githubusercontent.com/abhiesa/abhiesa/main/svg/gravatar.svg" height="30"></a>&nbsp;&nbsp;
+  <a href="https://about.me/abhiesa"><img src="https://raw.githubusercontent.com/abhiesa/abhiesa/main/svg/about-dot-me.svg" height="30"></a>&nbsp;&nbsp;
   <a href="https://hub.docker.com/u/abhiesa"><img src="https://raw.githubusercontent.com/abhiesa/abhiesa/main/svg/docker.svg" height="30"></a>&nbsp;&nbsp;
   <a href="https://wa.me/918130560666"><img src="https://raw.githubusercontent.com/abhiesa/abhiesa/main/svg/whatsapp.svg" height="30"></a>&nbsp;&nbsp;
   <a href="mailto:abhiesa@outlook.com"><img src="https://raw.githubusercontent.com/abhiesa/abhiesa/main/svg/microsoft.svg" height="30"></a>&nbsp;&nbsp;
@@ -21,10 +22,9 @@ const indian = {
   name: "Abhishek Pandey",
   alias: "Prashant | abhiesa",
   website: "http://abhiesa.com",
-  aboutMe: "https://about.me/abhiesa",
   keyword: "abhiesa"
   experience: "14 Years",
-  joinedGithub: "October 30, 2010",
+  joined-github: "October 30, 2010",
   skills: ["development", "designing", "architecture", "consulting", "modernization"],
   enthusiast: ["fusion applications", "semantic web", "polyglot persistence", "reactive"],
   performed: ["lead", "architecture", "manage", "requirement gathering", "analysis",
@@ -58,9 +58,16 @@ const indian = {
 
 
 <!--
-**abhiesa/abhiesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<a href="https://stackoverflow.com/users/1173520/abhiesa"><img src="https://raw.githubusercontent.com/abhiesa/abhiesa/main/svg/stackoverflow.svg" height="30"></a>&nbsp;&nbsp;https://github.com/ashishmishraw
-<a href="https://about.me/abhiesa"><img src="https://raw.githubusercontent.com/abhiesa/abhiesa/main/svg/about-dot-me.svg" height="30"></a>&nbsp;&nbsp;
-<a href="https://abhiesa.wordpress.com/"><img src="https://raw.githubusercontent.com/abhiesa/abhiesa/main/svg/wordpress.svg" height="30"></a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/channel/UCaiYI9RAcZ9-2owp4ugS0JQ"><img src="https://raw.githubusercontent.com/abhiesa/abhiesa/main/svg/youtube.svg" height="30"></a>
+Congrats!!! You just found my hidden and shameful links
+<a href="https://stackoverflow.com/users/1173520/abhiesa">
+  <img src="https://raw.githubusercontent.com/abhiesa/abhiesa/main/svg/stackoverflow.svg" height="30">
+</a>
+<a href="https://abhiesa.wordpress.com/">
+  <img src="https://raw.githubusercontent.com/abhiesa/abhiesa/main/svg/wordpress.svg" height="30">
+</a>
+<a href="https://www.youtube.com/channel/UCaiYI9RAcZ9-2owp4ugS0JQ">
+  <img src="https://raw.githubusercontent.com/abhiesa/abhiesa/main/svg/youtube.svg" height="30">
+</a>
+
+Special Mention, for this page, goes to: https://github.com/ashishmishraw
 -->
