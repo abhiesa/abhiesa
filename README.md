@@ -24,22 +24,22 @@ const indian = {
   website: "http://abhiesa.com",
   keyword: "abhiesa",
   experience: "14 Years",
-  current-employer: "optum (oga), united health group",
-  currrent-role: "solution architect",
-  past-notable-employers: ["ibm", "deloitte", "hcl", "tolexo", "times of india"],
+  currentEmployer: "optum (oga), united health group",
+  currrentRole: "solution architect",
+  pastNotableEmployers: ["ibm", "deloitte", "hcl", "tolexo", "times of india"],
   education: [
     {
       course: "masters of computer appication",
-      finishing-year: 2007,
+      finishingYear: 2007,
       collage: "vellore institute of technology"
     },
     {
       course: "bachelor of computer appication",
-      finishing-year: 2004,
+      finishingYear: 2004,
       collage: "birla institute of technology"
     }
   ],
-  joined-github: "october 30, 2010",
+  joinedGithub: "october 30, 2010",
   skills: ["development", "designing", "architecture", "consulting", "modernization"],
   enthusiast: ["fusion applications", "semantic web", "polyglot persistence", "reactiveness"],
   performed: ["lead", "architecture", "manage", "requirement gathering", "analysis",
@@ -53,13 +53,13 @@ const indian = {
   architecture: ["microservices", "event-driven"],
   mentors: ["@arungupta", "@starbuxman", "@paul_irish", "@SZQuadri"],
   certified: ["java", "soa", "db2", "azure"],
-  before-2k: {
+  before2k: {
     year: 1996,
-    first-computer: "intel machine with no hard-drive but with 5.25-inch floppy drive",
-    first-os: "ms-dos 3.x",
+    firstComputer: "intel machine with no hard-drive but with 5.25-inch floppy drive",
+    firstOs: "ms-dos 3.x",
     programs: ["wordstar", "123", "dbase", "lotus 123", "pagemaker", "coral", "foxpro"],
-    first-challange: "y2k",
-    early-hacks: ["scandisk", "defrag", "format", "blow warm air", "switch-off switch-on"]
+    firstChallange: "y2k",
+    earlyHacks: ["scandisk", "defrag", "format", "blow warm air", "switch-off switch-on"]
   }
 }
 
