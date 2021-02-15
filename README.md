@@ -40,12 +40,6 @@ const indian = {
     }
   ],
   joined-github: "October 30, 2010",
-  ealry-exposure: {
-    first-computer: "Intel machine with no hard-drive but with 5.25-inch floppy drive",
-    year: 1996,
-    first-os: "MS-DOS 3.x",
-    programs: ["wordstar", "123", "dbase", "lotus 123", "pagemaker", "coral", "foxpro"]
-  }
   skills: ["development", "designing", "architecture", "consulting", "modernization"],
   enthusiast: ["fusion applications", "semantic web", "polyglot persistence", "reactive"],
   performed: ["lead", "architecture", "manage", "requirement gathering", "analysis",
@@ -61,6 +55,14 @@ const indian = {
   architecture: ["microservices", "event-driven"],
   mentors: ["@arungupta", "@starbuxman", "@paul_irish", "@SZQuadri"],
   certified: ["java", "soa", "db2", "azure"],
+  before-y2k: {
+    year: 1996,
+    first-computer: "Intel machine with no hard-drive but with 5.25-inch floppy drive",
+    first-os: "MS-DOS 3.x",
+    programs: ["wordstar", "123", "dbase", "lotus 123", "pagemaker", "coral", "foxpro"],
+    first-challange: "Y2K",
+    early-hacks: ["scandisk", "defrag", "format", "blow warm air", "switch-off switch-on"]
+  }
   
 }
 
